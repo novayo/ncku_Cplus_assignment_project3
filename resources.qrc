@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>img/raiden3.ico</file>
+        <file>img/king of devl.png</file>
+        <file>img/fireball.png</file>
+        <file>img/trump.png</file>
+        <file>img/transparently.png</file>
+        <file>img/myGrade.png</file>
+        <file>img/TripleMushroomMK.png</file>
+        <file>img/Gold_Mushroom.png</file>
+        <file>img/mushroom.png</file>
+        <file>img/yellowball.png</file>
+        <file>img/trump (icon).png</file>
+        <file>img/blood.png</file>
+        <file>img/background.png</file>
+    </qresource>
+</RCC>
